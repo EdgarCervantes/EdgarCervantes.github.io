@@ -19,3 +19,6 @@
     -  empieza seguir uno o mas archivos :
 	 -A agrega todos los archivos delrepositorio
 
+### $ git commit 
+    -  registra elnuevo estado y loregistra enlahistoria del repositorio
+	-m <Descripcion del cambio>
