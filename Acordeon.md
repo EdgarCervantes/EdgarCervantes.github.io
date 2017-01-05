@@ -34,7 +34,8 @@
 
 ### git checkout <-idcommit> 
 	- Regresas alestado seleccionado
-
+	con el parametro -b crea la ramay te pociciona en ella.
+	
 ### git revert <-idcommit>
 	- revierte cambios realizados en ese estado
 
@@ -49,3 +50,9 @@
 ### $ git branch
 	- lista las ramas existentes en el proyecto
 	<nombre> se crea la rama con ese nombre 
+
+
+### $ git diff 
+	muestra  los cambios que se han hecho en los archivos.
+### $ git marge 
+	- fusiona dosramas un la actual con una objetivo
