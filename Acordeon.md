@@ -49,3 +49,6 @@
 ### $ git branch
 	- lista las ramas existentes en el proyecto
 	<nombre> se crea la rama con ese nombre 
+### $ git merge
+	- fuciona dos ramas,fusiona una rama objetivo con la rama donde nosencotramosactualmenmte 
+	-recibecomoparametro la rama objetivo
