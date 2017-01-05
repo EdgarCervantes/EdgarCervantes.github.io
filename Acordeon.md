@@ -22,7 +22,11 @@
 ### $ git commit
     -  registra el nuevo estado y loregistra enlahistoria del repositorio
         -m <Descripcion del cambio>
+
 ### $ git log 
     - muestra la historia de commits que sehan hecho en un proyecto
         --online muestra cada entrada en una sola linea
         <archivo> se muestra  la historia solo de ese archivo
+
+.gitignore
+	-Este archivo nos permite ignorar archivos o directorios que no queramos darles seguimientos 
