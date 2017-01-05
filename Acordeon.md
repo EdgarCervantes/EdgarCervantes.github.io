@@ -42,5 +42,10 @@
 	-Resgresa al ultimo estado guardado, borrando permantemente cualquier cambio en el area depruebas
 	- lleva labandera --hard
 
-## $ git clean -f 
+### $ git clean -f 
 	- Borra permanentemente los archivosnoseguidos 
+
+
+### $ git branch
+	- lista las ramas existentes en el proyecto
+	<nombre> se crea la rama con ese nombre 
