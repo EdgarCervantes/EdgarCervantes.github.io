@@ -42,5 +42,5 @@
 	-Resgresa al ultimo estado guardado, borrando permantemente cualquier cambio en el area depruebas
 	- lleva labandera --hard
 
-## $ git clean 
+## $ git clean -f 
 	- Borra permanentemente los archivosnoseguidos 
