@@ -30,3 +30,17 @@
 
 .gitignore
 	-Este archivo nos permite ignorar archivos o directorios que no queramos darles seguimientos 
+
+
+### git checkout <-idcommit> 
+	- Regresas alestado seleccionado
+
+### git revert <-idcommit>
+	- revierte cambios realizados en ese estado
+
+### $ git reset 
+	-Resgresa al ultimo estado guardado, borrando permantemente cualquier cambio en el area depruebas
+	- lleva labandera --hard
+
+## $ git clean 
+	- Borra permanentemente los archivosnoseguidos 
