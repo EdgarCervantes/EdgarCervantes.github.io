@@ -56,3 +56,11 @@
 	muestra  los cambios que se han hecho en los archivos.
 ### $ git marge 
 	- fusiona dosramas un la actual con una objetivo
+
+### $ git pull 
+	- regresa el ultimo estado registrado del repositorio remoto
+	- recibe como argumentos el nombre del remoto y del branch al que queremos hacer pull
+
+### $ git push 
+	-manda los cambios registrados de un repositorio local a un remoto 
+	- recibe como argumengtos el nombre del repositorio remoto y del branch al que queremos hacer push
