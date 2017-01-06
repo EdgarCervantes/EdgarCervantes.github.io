@@ -50,12 +50,11 @@
 ### $ git branch
 	- lista las ramas existentes en el proyecto
 	<nombre> se crea la rama con ese nombre 
-<<<<<<< HEAD
-
 
 ### $ git diff 
 	muestra  los cambios que se han hecho en los archivos.
-### $ git marge 
+
+### $ git merge 
 	- fusiona dosramas un la actual con una objetivo
 
 ### $ git pull 
@@ -65,8 +64,11 @@
 ### $ git push 
 	-manda los cambios registrados de un repositorio local a un remoto 
 	- recibe como argumengtos el nombre del repositorio remoto y del branch al que queremos hacer push
-=======
-### $ git merge
-	- fuciona dos ramas,fusiona una rama objetivo con la rama donde nosencotramosactualmenmte 
-	-recibecomoparametro la rama objetivo
->>>>>>> proyecto
+
+###  Fork 
+	- te permite copiar un repositorio remoto a tu repositorio remoto en gitHub
+
+### Issue
+	-Es un modo de generear alertas en un repositorio 
+
+
